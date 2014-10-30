@@ -1,5 +1,5 @@
 
-/*
+/*!
  * KineticJS JavaScript Framework v@@version
  * http://www.kineticjs.com/
  * Copyright 2013, Eric Rowell
